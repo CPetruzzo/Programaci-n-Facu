@@ -6,7 +6,7 @@
             text-decoration-line: underline
         }
 
-        .link:hover {
+        .link:hover { 
             color: var(--color-brand-400)
         }
 
